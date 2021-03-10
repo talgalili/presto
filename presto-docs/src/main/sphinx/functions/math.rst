@@ -4,7 +4,8 @@ Mathematical Functions and Operators
 
 Mathematical Operators
 ----------------------
-
+test 1
+test 2
 ======== ===========
 Operator Description
 ======== ===========
@@ -166,7 +167,7 @@ Mathematical Functions
 .. function:: truncate(x, n) -> double
 
     Returns ``x`` truncated to ``n`` decimal places.
-    ``n`` can be negative to truncate ``n`` digits left of the decimal point. 
+    ``n`` can be negative to truncate ``n`` digits left of the decimal point.
 
     Example:
     ``truncate(REAL '12.333', -1)`` -> result is 10.0
